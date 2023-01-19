@@ -1,5 +1,5 @@
 # Licence Plate Reader
-## Usage
+## How to run
 1. Create a conda environment
 
 ```bash
@@ -8,5 +8,5 @@
 
 2. Run the app
 ```bash
-python main.py
+python final.py
 ```
